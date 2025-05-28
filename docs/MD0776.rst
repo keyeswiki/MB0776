@@ -7,11 +7,7 @@ ZN001-CH340C为一款USB转TTL工具板，通过USB口（TypeA）进行连接，
 
 默认配4根母对母杜邦线
 
-.. figure::
-   F:\Desktop\note\MD0776\media\1722608645150-a8956c91-5949-4da1-b280-dead9af02372.webp
-   :alt: img
-
-
+|image1|
 
 **驱动程序(**\ Windows\ **)**
 =============================
@@ -35,15 +31,9 @@ VCC：电源输出，电压由跳线帽选择的电平决定
 
 5V：电源输出，电压为5V
 
-.. figure::
-   F:\Desktop\note\MD0776\media\1722609073943-686a40d3-4121-42b3-9359-06cce9109700.jpeg
-   :alt: img
+|image2|
 
-
-.. figure::
-   F:\Desktop\note\MD0776\media\1722778886295-614f3480-f278-4dc1-a569-38d9879749f0.png
-   :alt: img
-
+|image3|
 
 **Q&A**
 =======
@@ -51,3 +41,7 @@ VCC：电源输出，电压由跳线帽选择的电平决定
 Q：插上后，无法正常识别
 
 A：请检查是否安装USB驱动程序，可以在PC端的设备管理器中进行查看
+
+.. |image1| image:: ./media/1722608645150-a8956c91-5949-4da1-b280-dead9af02372.jpg
+.. |image2| image:: ./media/1722609073943-686a40d3-4121-42b3-9359-06cce9109700.jpeg
+.. |image3| image:: ./media/1722778886295-614f3480-f278-4dc1-a569-38d9879749f0.png

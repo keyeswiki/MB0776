@@ -11,7 +11,7 @@ ZN001-CH340C为一款USB转TTL工具板，通过USB口（TypeA）进行连接，
    F:\Desktop\note\MD0776\media\1722608645150-a8956c91-5949-4da1-b280-dead9af02372.webp
    :alt: img
 
-   img
+
 
 **驱动程序(**\ Windows\ **)**
 =============================
@@ -39,13 +39,11 @@ VCC：电源输出，电压由跳线帽选择的电平决定
    F:\Desktop\note\MD0776\media\1722609073943-686a40d3-4121-42b3-9359-06cce9109700.jpeg
    :alt: img
 
-   img
 
 .. figure::
    F:\Desktop\note\MD0776\media\1722778886295-614f3480-f278-4dc1-a569-38d9879749f0.png
    :alt: img
 
-   img
 
 **Q&A**
 =======
